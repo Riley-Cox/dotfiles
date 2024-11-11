@@ -1,0 +1,55 @@
+#window {
+  background-color: rgba(31, 29, 28, 0.308);
+  border:solid transparent;
+    border-style: none;
+}
+
+#button {
+    background-color:rgba(184, 188, 188,0.2);
+    border: solid transparent;
+    border-style: hidden;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-top: 0px;
+}
+button:hover{
+    background:rgba(184, 188, 188,0.1);
+    border:solid;
+    border-style:solid;
+}
+
+#description-shutdown {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#description-reboot {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#description-logout {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#description-hibernate {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#description-suspend {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#description-lock {
+    font-size: 35px;
+    color: rgb(235,219,178);
+}
+
+#button:hover{
+   background-color: rgba(184, 188, 188,0.2); 
+}
