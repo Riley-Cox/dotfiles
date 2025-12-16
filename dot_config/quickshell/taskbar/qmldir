@@ -1,0 +1,12 @@
+module Taskbar
+Bar 1.0 Bar.qml
+TaskbarButton 1.0 TaskbarButton.qml
+Workspaces 1.0 Workspaces.qml
+ClockWidget 1.0 ClockWidget.qml
+SysTray 1.0 SysTray.qml
+BatteryWidget 1.0 BatteryWidget.qml
+singleton CpuProc 1.0 CpuProc.qml
+singleton Battery 1.0 Battery.qml
+CpuWidget 1.0 CpuWidget.qml
+singleton MemProc 1.0 MemProc.qml
+MemWidget 1.0 MemWidget.qml

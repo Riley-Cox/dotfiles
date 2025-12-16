@@ -1,0 +1,25 @@
+{
+    "settings": {
+        "bar": {
+            "fontSize": 12,
+            "monochromeTrayIcons": true,
+            "trayIconSize": 16
+        },
+        "currentTheme": "default",
+        "execCommands": {
+            "files": "nemo",
+            "terminal": "kitty"
+        },
+        "militaryTimeClockFormat": false,
+        "setWallpaperToThemeWallpaper": true,
+        "systemDetails": {
+            "cpu": "i5-8250U",
+            "gpu": "GPU Name",
+            "osName": "Arch Linux",
+            "osVersion": "Distro Version",
+            "ram": "24GB"
+        },
+        "systemProfileImageSource": "/home/riley/Pictures/KenKanekiDie.png",
+        "version": "0.1"
+    }
+}
