@@ -100,6 +100,9 @@ RowLayout {
     CpuWidget{
       id: cpuWidget
     }
+    TempWidget {
+      id: cpuTemp
+    }
     MemWidget {
       id: memWidget
     }
